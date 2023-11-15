@@ -1,0 +1,185 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000000;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container-main {
+  padding-top: 96.73px;
+  /* width: 1920px; */
+  /* height: 5590.95px; */
+  /* top: -3196.73px;
+  left: -950.5px; */
+  background: transparent;
+}
+
+.footer {
+  /* width: 1921px;
+  height: 151px; */
+  /* top: 2477px;
+  left: -951px; */
+  /* padding: 0px, 0px, 214.81px, 0px; */
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  background: #F79009;
+}
+
+.banner {
+  background: transparent;
+  border-bottom: 1px solid #0414341A;
+  font-family: 'Space Mono';
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+  border-bottom: 4px solid #F79009E5;
+
+}
+
+.nav-dash {
+  color: #DC7F06;
+}
+
+.nav-company {
+  color: #DC7F06;
+}
+
+.heading {
+  /* width: 750px;
+  height: 215.59px; */
+  color: white;
+  /* margin-top: 30.5px; */
+  /* top: 615.73px; */
+  /* margin-left: 571.5px; */
+  /* padding: 0px, 0px, 16px, 0px; */
+}
+
+
+.heading-title {
+  /* font-size: 40px; */
+  font-weight: 500;
+  line-height: 60px;
+  letter-spacing: -0.022em;
+  text-align: center;
+}
+
+.heading-content {
+  /* font-size: 24px; */
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: -0.019em;
+  text-align: center;
+}
+
+.join_btn {
+  /* width: 252.5px; */
+  height: 43.36px;
+  padding: 11px, 24.64px, 11.36px, 25px;
+  /* border: 1px solid #17B26A; */
+  background: #F79009;
+}
+
+
+.vector-border {
+  background: #0E1116;
+}
+
+.gradient-border {
+  padding: 1.5px;
+  background: linear-gradient(to left, #F79009, #FFFFFF);
+}
+
+.sample-header {
+  border-bottom: 1px solid gray;
+}
+
+.bad-cars {
+  border: 1px solid #F9F8F0;
+}
+
+.data-title {
+  /* width: 776.97px;
+  height: 129px;
+  top: -5px;
+  left: 11.61px; */
+  /* font-size: 40px; */
+  font-weight: 500;
+  line-height: 60px;
+  letter-spacing: -0.022em;
+  text-align: center;
+}
+
+.data-description {
+  /* width: 800px;
+  height: 47.59px;
+  top: 516.27px;
+  left: 100.5px; */
+  padding: 0px, 1.88px, 1.79px, 4.08px;
+  /* font-size: 24px; */
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: -0.019em;
+  text-align: center;
+}
+
+.small-space {
+  height: 100px;
+}
+
+.meta {
+  background: #0E1116;
+}
+
+.meta-item {
+  color: #F9F8F0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+}
+
+.meta-item-header {
+  color: #A7A7A7;
+}
+
+.class-date {
+  color: #8B949E;
+}
+
+.meta-item-null {
+  /* font-family: Space Mono; */
+  color: #3F4A54;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+}
+
+.keep-connected {
+  width: 1921px;
+  height: 648.19px;
+}
+
+.vector {
+  width: 299.81px;
+  height: 648.16px;
+}
